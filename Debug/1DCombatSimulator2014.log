@@ -1,2 +1,3 @@
 ﻿  index.cpp
+C:\Users\kirit\source\repos\1DCombatSimulator2014\index.cpp(8,41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   1DCombatSimulator2014.vcxproj -> C:\Users\kirit\source\repos\1DCombatSimulator2014\Debug\1DCombatSimulator2014.exe
